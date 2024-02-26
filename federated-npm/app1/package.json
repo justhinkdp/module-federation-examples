@@ -12,8 +12,8 @@
     "webpack-dev-server": "4.15.1",
     "@module-federation/enhanced": "^0.0.13",
     "@module-federation/runtime": "^0.0.13",
-    "@rspack/cli": "0.5.1",
-    "@rspack/core": "0.5.1",
+    "@rspack/cli": "0.5.4",
+    "@rspack/core": "0.5.4",
     "@rspack/dev-server": "0.5.4"
   },
   "scripts": {
