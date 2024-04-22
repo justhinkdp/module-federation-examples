@@ -3,7 +3,6 @@ import ReactAdapterProvider from './ReactAdapterProvider';
 
 const ModernReactComponent = props => {
   const { children, input } = props;
-
   useEffect(() => {
     console.log('some effect from app2 based component');
   }, []);
